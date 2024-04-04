@@ -1,12 +1,12 @@
-# Settyl
-Settyl Data Science And Machine Learning Engineer Task
-Introduction
+# Settyl Data Science And Machine Learning Engineer Task
+
+# Introduction
 In today's fast-paced business environment, the ability to accurately and efficiently predict internal statuses based on external descriptions is paramount. This project aims to leverage the power of machine learning to develop a solution that can automate this process, thereby enhancing operational efficiency and decision-making.
 The project involves several key stages, including data preprocessing, model development, training and evaluation, API development, testing and validation, and documentation. By utilizing TensorFlow for model development and FastAPI for API implementation, we aim to create a robust and scalable solution.
 This report outlines the methodologies employed, the challenges faced, and the results achieved throughout the project. It serves as a comprehensive documentation of the entire development process, providing insights into the technical aspects as well as the practical implications of the implemented solution.
 #**Data Preprocessing**
 
-##Objective
+## Objective
 The goal of the data preprocessing stage was to prepare the dataset for model training by cleaning and formatting the external status descriptions and internal status labels. This involved handling any missing values and splitting the data into features and labels for model input.
 
 ##Methodology
